@@ -1,0 +1,21 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color:purple
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    font-size: x-large;
+    color: purple;
+
+}
+
+#content {
+    height: 200px;
+    overflow-wrap: break-word;
+}
+
+

@@ -1,7 +1,10 @@
 h1 {
     display: flex;
     justify-content: center;
-    color:purple
+    color:purple;
+    font-family: "Arizonia", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 form {
